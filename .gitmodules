@@ -1,0 +1,3 @@
+[submodule "Socket-Based-Hotel-Management"]
+	path = Socket-Based-Hotel-Management
+	url = git@github.com:Nesabbasi/Socket-Based-Hotel-Management.git
