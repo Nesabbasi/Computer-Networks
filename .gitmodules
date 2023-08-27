@@ -1,3 +1,6 @@
 [submodule "Socket-Based-Hotel-Management"]
 	path = Socket-Based-Hotel-Management
 	url = git@github.com:Nesabbasi/Socket-Based-Hotel-Management.git
+[submodule "ns-3-Wireless-Network-Simulation"]
+	path = ns-3-Wireless-Network-Simulation
+	url = git@github.com:Nesabbasi/ns-3-Wireless-Network-Simulation.git
