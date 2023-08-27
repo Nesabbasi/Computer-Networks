@@ -4,3 +4,6 @@
 [submodule "ns-3-Wireless-Network-Simulation"]
 	path = ns-3-Wireless-Network-Simulation
 	url = git@github.com:Nesabbasi/ns-3-Wireless-Network-Simulation.git
+[submodule "Network-Routing-Protocols"]
+	path = Network-Routing-Protocols
+	url = git@github.com:Nesabbasi/Network-Routing-Protocols.git
